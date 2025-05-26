@@ -7,7 +7,7 @@ function somar(a, b) {
   
 
   function multiplicar(a, b) {
-    return a / 2;
+    return a * b;
   }
   console.log('Multiplicação:', multiplicar(4, 5));
   
